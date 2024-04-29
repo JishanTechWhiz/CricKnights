@@ -66,7 +66,7 @@ Create-Team Screen  | Live IPL-Score Screen
 
 Proile Screen  | Edit-Profile Screen
 :-------------------------:|:-------------------------:
-![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/7.jpg)  |  ![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/edit.jpg)
+<img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/7.jpg" width="300">  |  ![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/edit.jpg)
 
 
 
