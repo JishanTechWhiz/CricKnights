@@ -34,24 +34,39 @@ A CricKnight is a software application designed to facilitate the efficient orga
 - Provide Customer Support
 
 ## 📱 Screenshots
-Splash Screen  | Login Page
+OnBoarding Screen  | Login Screen
 :-------------------------:|:-------------------------:
 ![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/1.jpg)  |  ![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/2.png)
 
-Register Page            |  Home Page
-:-------------------------:|:-------------------------:
-![](https://github.com/devshah120/Travel-Buddy/blob/master/app/src/main/res/drawable/Travel%20Buddy%20Final%20Year%20Project%20Pictures/Travel%20Buddy%20Final%20Year%20Project%20Pictures/Screenshot_20230418_223732.png)  |  ![](https://github.com/devshah120/Travel-Buddy/blob/master/app/src/main/res/drawable/Travel%20Buddy%20Final%20Year%20Project%20Pictures/Travel%20Buddy%20Final%20Year%20Project%20Pictures/Screenshot_20230418_224148.png)
 
-Hotel Page            |  Payment Page
+Register Screen  | Forgot-Password Screen
 :-------------------------:|:-------------------------:
-![](https://github.com/devshah120/Travel-Buddy/blob/master/app/src/main/res/drawable/Travel%20Buddy%20Final%20Year%20Project%20Pictures/Travel%20Buddy%20Final%20Year%20Project%20Pictures/Screenshot_20230418_224224.png)  |  ![](https://github.com/devshah120/Travel-Buddy/blob/master/app/src/main/res/drawable/Travel%20Buddy%20Final%20Year%20Project%20Pictures/Travel%20Buddy%20Final%20Year%20Project%20Pictures/Screenshot_20230418_230137.png)
+![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/3.jpg)  |  ![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/4.jpg)
 
-AI Chatbot            |  AR Model
-:-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/72226715/233829813-044e39a8-9711-4f59-804c-ec9e2aac88fd.png)  |  ![](https://github.com/devshah120/Travel-Buddy/blob/master/app/src/main/res/drawable/Travel%20Buddy%20Final%20Year%20Project%20Pictures/Travel%20Buddy%20Final%20Year%20Project%20Pictures/Screenshot_20230418_231316.png)
 
-AR Model Preview       |  Language Translator 
+Home Screen  | Drawer Screen
 :-------------------------:|:-------------------------:
-![](https://github.com/devshah120/Travel-Buddy/blob/master/app/src/main/res/drawable/Travel%20Buddy%20Final%20Year%20Project%20Pictures/Travel%20Buddy%20Final%20Year%20Project%20Pictures/Screenshot_20230418_232026.png)  |  ![](https://github.com/devshah120/Travel-Buddy/blob/master/app/src/main/res/drawable/Travel%20Buddy%20Final%20Year%20Project%20Pictures/Travel%20Buddy%20Final%20Year%20Project%20Pictures/Screenshot_20230418_232334.png)
+![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/5.jpg)  |  ![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/6.jpg)
+
+
+Book Box-Ground Screen  | CricNews Screen
+:-------------------------:|:-------------------------:
+![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/8.jpg)  |  ![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/9.jpg)
+
+
+Matches Screen  | Tournament Screen
+:-------------------------:|:-------------------------:
+![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/10.jpg)  |  ![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/tour.jpg)
+
+
+Proile Screen  | Edit-Profile Screen
+:-------------------------:|:-------------------------:
+![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/7.jpg)  |  ![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/edit.jpg)
+
+
+Create-Team Screen  | Live IPL-Score Screen
+:-------------------------:|:-------------------------:
+![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/12.jpg)  |  ![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/ipl1.jpg)
+
 
 
