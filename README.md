@@ -6,14 +6,14 @@ A CricKnight is a software application designed to facilitate the efficient orga
 
 
 
-## Tech Stack
+## 🛠 Tech Stack
 
 **Client:** Flutter
 
 **Server:** Django , SQLite
 
 
-## Features
+## 💻 Features
 
 - Play 1vs1 Match 
 
