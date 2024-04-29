@@ -59,14 +59,14 @@ Matches Screen  | Tournament Screen
 ![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/10.jpg)  |  ![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/tour.jpg)
 
 
-Proile Screen  | Edit-Profile Screen
-:-------------------------:|:-------------------------:
-![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/7.jpg)  |  ![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/edit.jpg)
-
-
 Create-Team Screen  | Live IPL-Score Screen
 :-------------------------:|:-------------------------:
 ![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/12.jpg)  |  ![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/ipl1.jpg)
+
+
+Proile Screen  | Edit-Profile Screen
+:-------------------------:|:-------------------------:
+![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/7.jpg)  |  ![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/edit.jpg)
 
 
 
