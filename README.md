@@ -41,32 +41,27 @@ OnBoarding Screen  | Login Screen
 
 Register Screen  | Forgot-Password Screen
 :-------------------------:|:-------------------------:
-![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/3.jpg)  |  ![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/4.jpg)
-
+<img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/3.jpg" height="600" width="400"> |  <img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/4.jpg" height="600" width="400"> 
 
 Home Screen  | Drawer Screen
 :-------------------------:|:-------------------------:
-![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/5.jpg)  |  ![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/6.jpg)
-
+<img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/5.jpg" height="600" width="400">   | <img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/6.jpg" height="600" width="400"> 
 
 Book Box-Ground Screen  | CricNews Screen
 :-------------------------:|:-------------------------:
-![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/8.jpg)  |  ![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/9.jpg)
-
+<img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/8.jpg" height="600" width="400"> | <img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/9.jpg" height="600" width="400"> 
 
 Matches Screen  | Tournament Screen
 :-------------------------:|:-------------------------:
-![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/10.jpg)  |  ![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/tour.jpg)
-
+<img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/10.jpg" height="600" width="400">   |  <img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/tour.jpg" height="600" width="400"> 
 
 Create-Team Screen  | Live IPL-Score Screen
 :-------------------------:|:-------------------------:
-![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/12.jpg)  |  ![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/ipl1.jpg)
-
+<img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/12.jpg" height="600" width="400">  |  <img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/ipl1.jpg" height="600" width="400"> 
 
 Proile Screen  | Edit-Profile Screen
 :-------------------------:|:-------------------------:
-<img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/7.jpg" width="300">  |  ![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/edit.jpg)
+<img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/7.jpg" height="600" width="400">   |  <img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/edit.jpg" height="600" width="400"> 
 
 
 
