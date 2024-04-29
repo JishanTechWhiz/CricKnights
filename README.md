@@ -36,7 +36,7 @@ A CricKnight is a software application designed to facilitate the efficient orga
 ## 📱 Screenshots
 Splash Screen  | Login Page
 :-------------------------:|:-------------------------:
-![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/2.png)  |  ![](https://github.com/devshah120/Travel-Buddy/blob/master/app/src/main/res/drawable/Travel%20Buddy%20Final%20Year%20Project%20Pictures/Travel%20Buddy%20Final%20Year%20Project%20Pictures/Screenshot_20230418_223620.png)
+![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/1.jpg)  |  ![](https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/2.png)
 
 Register Page            |  Home Page
 :-------------------------:|:-------------------------:
