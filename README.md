@@ -49,7 +49,7 @@ Home Screen  | Drawer Screen
 
 Book Box-Ground Screen  | CricNews Screen
 :-------------------------:|:-------------------------:
-<img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/8.jpg" height="500" width="350"> | <img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/9.jpg" height="500" width="400"> 
+<img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/8.jpg" height="500" width="350"> | <img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/9.jpg" height="500" width="350"> 
 
 Matches Screen  | Tournament Screen
 :-------------------------:|:-------------------------:
