@@ -53,7 +53,7 @@ Book Box-Ground Screen  | CricNews Screen
 
 Matches Screen  | Tournament Screen
 :-------------------------:|:-------------------------:
-<img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/10.jpg" height="500" width="350">   |  <img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/tour.jpg" height="500" width="350"> 
+<img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/10.jpg" height="500" width="320">   |  <img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/tour.jpg" height="500" width="320"> 
 
 
 Create-Team Screen  | Live IPL-Score Screen
@@ -62,7 +62,7 @@ Create-Team Screen  | Live IPL-Score Screen
 
 Live IPL-Score Screen  | Contact-Us Screen
 :-------------------------:|:-------------------------:
-<img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/ipl2.jpg" height="480" width="350">  |  <img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/c.jpg" height="480" width="350"> 
+<img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/ipl2.jpg" height="500" width="350">  |  <img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/c.jpg" height="500" width="350"> 
 
 
 Proile Screen  | Edit-Profile Screen
