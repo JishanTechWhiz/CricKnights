@@ -62,7 +62,7 @@ Create-Team Screen  | Live IPL-Score Screen
 
 Live IPL-Score Screen  | Contact-Us Screen
 :-------------------------:|:-------------------------:
-<img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/ipl2.jpg" height="500" width="350">  |  <img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/c.jpg" height="500" width="350"> 
+<img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/ipl2.jpg" height="480" width="350">  |  <img src="https://github.com/JishanTechWhiz/CricKnights-/blob/main/assets/Project_Image/c.jpg" height="480" width="350"> 
 
 
 Proile Screen  | Edit-Profile Screen
